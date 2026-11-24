@@ -5,5 +5,5 @@
 
 ## Open-source tools
 
-- **[NTFS Tracer](https://github.com/absolroot/NTFS-Tracer)** · A Windows forensics tool for tracing file changes from NTFS logs back to the original records.
-- **[Mail Evidence](https://github.com/absolroot/Mail-Evidence)** · A Windows email forensics tool for examining messages, attachments, and raw headers in an inbox-style interface.
+- **[NTFS Tracer](https://github.com/absolroot/NTFS-Tracer)** · Analyze `$J`, `$MFT`, and `$LogFile` directly from disk images on Windows. Search by current or previous filename and trace both sides of a rename to the original USN records and bytes.
+- **[Mail Evidence](https://github.com/absolroot/Mail-Evidence)** · Investigate email in a Windows inbox interface. Open Outlook archives and other mail formats or extract mail from NTFS disk images, preview attachments, and verify anomalies against original headers, link destinations, and bytes.
