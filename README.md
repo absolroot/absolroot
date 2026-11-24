@@ -5,5 +5,5 @@
 
 ## Open-source tools
 
-- **[NTFS Tracer](https://github.com/absolroot/NTFS-Tracer)** · Analyze `$J`, `$MFT`, and `$LogFile` directly from disk images on Windows. Search by current or previous filename and trace both sides of a rename to the original USN records and bytes.
-- **[Mail Evidence](https://github.com/absolroot/Mail-Evidence)** · Investigate email in a Windows inbox interface. Open Outlook archives and other mail formats or extract mail from NTFS disk images, preview attachments, and verify anomalies against original headers, link destinations, and bytes.
+- **[NTFS Tracer](https://github.com/absolroot/NTFS-Tracer)** · Find a renamed file by its old name and follow the change back to the original NTFS records.
+- **[Mail Evidence](https://github.com/absolroot/Mail-Evidence)** · Spot suspicious emails in a familiar inbox and see exactly what in the message raised the flag.
